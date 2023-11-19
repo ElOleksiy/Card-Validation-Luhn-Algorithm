@@ -1,6 +1,6 @@
 # Card-Validation-Luhn-Algorithm
 
-**Credit Card Check**
+#Credit Card Check
 This project implements credit card number validation using the Luhn algorithm and identifies their types (VISA, AMEX, MASTERCARD, or INVALID).
 
 **How it Works**
